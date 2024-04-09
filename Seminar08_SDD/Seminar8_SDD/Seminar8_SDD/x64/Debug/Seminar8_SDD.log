@@ -1,0 +1,3 @@
+﻿  Seminar08.c
+T:\Seminar8_SDD\Seminar8_SDD\Seminar08.c(97): warning C4715: 'ExtragereHeap': not all control paths return a value
+  Seminar8_SDD.vcxproj -> T:\Seminar8_SDD\x64\Debug\Seminar8_SDD.exe
