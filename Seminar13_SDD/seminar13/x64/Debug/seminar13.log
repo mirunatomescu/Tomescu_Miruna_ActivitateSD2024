@@ -1,0 +1,3 @@
+﻿  source.c
+C:\OneDrive\Desktop\seminar13\seminar13\seminar13\source.c(105,2): warning C4013: 'inserarePrincipala' undefined; assuming extern returning int
+LINK : fatal error LNK1168: cannot open C:\OneDrive\Desktop\seminar13\seminar13\x64\Debug\seminar13.exe for writing
