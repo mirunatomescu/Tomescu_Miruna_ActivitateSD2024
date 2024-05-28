@@ -1,0 +1,2 @@
+﻿Seminar14_SDD.obj : error LNK2019: unresolved external symbol inserarePrincipala referenced in function main
+C:\OneDrive\Desktop\Seminar_14_SDD\x64\Debug\Seminar_14_SDD.exe : fatal error LNK1120: 1 unresolved externals
