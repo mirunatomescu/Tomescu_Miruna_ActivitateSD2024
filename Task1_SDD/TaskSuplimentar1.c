@@ -70,7 +70,7 @@ int main() {
     afiseazaVehicul(v);
     printf("Discountul aplicat vehiculului:%.2f", discountVanzare(&v));
 
-    printf("\nInformatii despre vehicul dupa aplicarea discountului:\n");
+    printf("\nInformatii despre vehicul dupa aplicare discount:\n");
     afiseazaVehicul(v);
 
 
