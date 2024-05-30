@@ -44,10 +44,10 @@ void modificaAnProductie(struct Autovehicul* a, int noulAnProductie) {
 }
 
 void afiseazaAutovehicul(struct Autovehicul a) {
-    printf("ID: %d\n", a.id);
-    printf("Nume: %s\n", a.nume);
-    printf("An de productie: %d\n", a.anProductie);
-    printf("Cost: %.2f\n", a.cost);
+    printf("ID-ul: %d\n", a.id);
+    printf("Numele: %s\n", a.nume);
+    printf("Anul de productie: %d\n", a.anProductie);
+    printf("Costul: %.2f\n", a.cost);
 }
 
 struct Autovehicul* filtreazaAutovehiculeDupa2005(struct Autovehicul* autovehicule, int numarAutovehicule, int* numarAutovehiculeFiltrate) {
